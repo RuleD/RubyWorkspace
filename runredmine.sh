@@ -1,0 +1,1 @@
+python /RubyWorkspace/redmineIssueStatus.py
